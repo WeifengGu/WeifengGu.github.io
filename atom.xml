@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://weifenggu.github.io</id>
-    <title>aFeng</title>
-    <updated>2020-01-10T09:05:06.492Z</updated>
+    <title>a WeifengGu&apos;s blog</title>
+    <updated>2020-01-10T09:10:33.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://weifenggu.github.io"/>
     <link rel="self" href="https://weifenggu.github.io/atom.xml"/>
-    <subtitle>a WeifengGu&apos;s blog</subtitle>
+    <subtitle>Weifeng.Gu</subtitle>
     <logo>https://weifenggu.github.io/images/avatar.png</logo>
     <icon>https://weifenggu.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, aFeng</rights>
+    <rights>All rights reserved 2020, a WeifengGu&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://weifenggu.github.io/post/hello-gridea</id>
